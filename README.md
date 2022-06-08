@@ -5,7 +5,7 @@
 | Nama        | Melinda Sari Harahap      |
 | NIM         | 0702191103                |
 | Kelas       | Sistem Informasi 4        |
-| Mata Kuliah | Pemrograman Berbasis Web Dasar|
+| Mata Kuliah | Pemrograman Berbasis Web Lanjutan|
 
 ## Note
 
